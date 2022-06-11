@@ -1,3 +1,1 @@
-# Projeto-01
- Vamos começar!
-Iniciando os estudos de Git.
+Exercícios  do  curso JavaScript Guanabara!
