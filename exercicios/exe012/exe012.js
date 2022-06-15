@@ -7,3 +7,6 @@ if (idade < 16) {
 } else {
     console.log('Voto obrigatório')
 }
+
+var num = 8
+num ** = 2 
